@@ -1,3 +1,3 @@
 # Cryptography
-This is the code to automate the algorithms I learned in my crypto class!
-I used a either java or python depending on what I wanted more practice on!
+This is the code to automate the algorithms I learned in my crypto class. I used a either java or python depending on what I wanted more practice on. I coded these specifically to automate large parts of my homework or to check my own work. I hope they help someone else out as well but its not meant for anything super intense.
+For example in the Caesar Cipher code I manually entered the text we needed to decode and then went through until I saw a proper decoded message. The CryptoEllipticCurve file is where I applied Lenstra elliptic-curve factorization as well as just a basic way to add two points together.
